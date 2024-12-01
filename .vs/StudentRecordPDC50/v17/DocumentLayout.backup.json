@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|c:\\users\\admin\\documents\\avie\\studentrecordpdc50\\studentrecordpdc50\\view\\studentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|solutionrelative:studentrecordpdc50\\view\\studentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|c:\\users\\admin\\documents\\avie\\studentrecordpdc50\\studentrecordpdc50\\view\\studentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|solutionrelative:studentrecordpdc50\\view\\studentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|c:\\users\\admin\\documents\\avie\\studentrecordpdc50\\studentrecordpdc50\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|solutionrelative:studentrecordpdc50\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|c:\\users\\admin\\documents\\avie\\studentrecordpdc50\\studentrecordpdc50\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|solutionrelative:studentrecordpdc50\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|c:\\users\\admin\\documents\\avie\\studentrecordpdc50\\studentrecordpdc50\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|solutionrelative:studentrecordpdc50\\viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|c:\\users\\admin\\documents\\avie\\studentrecordpdc50\\studentrecordpdc50\\view\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|solutionrelative:studentrecordpdc50\\view\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|c:\\users\\admin\\documents\\avie\\studentrecordpdc50\\studentrecordpdc50\\view\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|solutionrelative:studentrecordpdc50\\view\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|c:\\users\\admin\\documents\\avie\\studentrecordpdc50\\studentrecordpdc50\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|solutionrelative:studentrecordpdc50\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|c:\\users\\admin\\documents\\avie\\studentrecordpdc50\\studentrecordpdc50\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|solutionrelative:studentrecordpdc50\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|c:\\users\\admin\\documents\\avie\\studentrecordpdc50\\studentrecordpdc50\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D7F37E-7963-43D1-9C0E-413B15C98249}|StudentRecordPDC50\\StudentRecordPDC50.csproj|solutionrelative:studentrecordpdc50\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\View\\StudentPage.xaml",
+              "RelativeDocumentMoniker": "StudentRecordPDC50\\View\\StudentPage.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\View\\StudentPage.xaml",
+              "RelativeToolTip": "StudentRecordPDC50\\View\\StudentPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T15:26:08.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "StudentRecordPDC50\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\MainPage.xaml.cs",
+              "RelativeToolTip": "StudentRecordPDC50\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:51:19.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\AppShell.xaml",
+              "RelativeDocumentMoniker": "StudentRecordPDC50\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\AppShell.xaml",
+              "RelativeToolTip": "StudentRecordPDC50\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T04:50:37.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\View\\UserPage.xaml.cs",
+              "RelativeDocumentMoniker": "StudentRecordPDC50\\View\\UserPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\View\\UserPage.xaml.cs",
+              "RelativeToolTip": "StudentRecordPDC50\\View\\UserPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:47:36.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\View\\UserPage.xaml",
+              "RelativeDocumentMoniker": "StudentRecordPDC50\\View\\UserPage.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\View\\UserPage.xaml",
+              "RelativeToolTip": "StudentRecordPDC50\\View\\UserPage.xaml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwDkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T04:41:45.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\MainPage.xaml",
+              "RelativeDocumentMoniker": "StudentRecordPDC50\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\MainPage.xaml",
+              "RelativeToolTip": "StudentRecordPDC50\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T04:41:00.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "StudentRecordPDC50\\ViewModel\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "StudentRecordPDC50\\ViewModel\\UserViewModel.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAswM0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:15:31.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "StudentRecordPDC50\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\Services\\UserService.cs",
+              "RelativeToolTip": "StudentRecordPDC50\\Services\\UserService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:13:30.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\View\\StudentPage.xaml.cs",
+              "RelativeDocumentMoniker": "StudentRecordPDC50\\View\\StudentPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\View\\StudentPage.xaml.cs",
+              "RelativeToolTip": "StudentRecordPDC50\\View\\StudentPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:26:16.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\Model\\User.cs",
+              "RelativeDocumentMoniker": "StudentRecordPDC50\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\avie\\StudentRecordPDC50\\StudentRecordPDC50\\Model\\User.cs",
+              "RelativeToolTip": "StudentRecordPDC50\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T04:12:03.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
