@@ -176,3 +176,4 @@ C:\Users\ADMIN\Documents\avie\StudentRecordPDC50\StudentRecordPDC50\obj\Debug\ne
 C:\Users\ADMIN\Documents\avie\StudentRecordPDC50\StudentRecordPDC50\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\ADMIN\Documents\avie\StudentRecordPDC50\StudentRecordPDC50\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\ADMIN\Documents\avie\StudentRecordPDC50\StudentRecordPDC50\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\ADMIN\Documents\avie\StudentRecordPDC50\StudentRecordPDC50\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\StudentRecordPDC50.sourcelink.json

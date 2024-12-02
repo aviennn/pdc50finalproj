@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http.Json;
 using System.Text;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using StudentRecordPDC50.Model;
+using static StudentRecordPDC50.Model.User;
 
 namespace StudentRecordPDC50.Services
 {
@@ -50,6 +53,53 @@ namespace StudentRecordPDC50.Services
             var response = await _httpClient.PostAsJsonAsync($"{BaseUrl}delete_user.php", new { id = userId });
             var result = await response.Content.ReadAsStringAsync();
             return result;
+        }
+
+
+        //Log in Function
+        public async Task<LoginResponse> LoginAsync(string idno, string password)
+        {
+            var loginData = new
+            {
+                Idno = idno,        // Send 'Name' instead of 'Idno' or 'username'
+                Password = password
+            };
+
+            try
+            {
+                // Send the POST request with login data
+                var response = await _httpClient.PostAsJsonAsync($"{BaseUrl}login.php", loginData);
+
+                // Read the raw response content as a string (before deserialization)
+                string responseContent = await response.Content.ReadAsStringAsync();
+
+                // Log the raw response for debugging
+                System.Diagnostics.Debug.WriteLine($"API Response: {responseContent}");
+
+                // Check if the response is successful
+                if (response.IsSuccessStatusCode)
+                {
+                    // If the response is valid JSON, attempt to deserialize it
+                    var loginResponse = await response.Content.ReadFromJsonAsync<LoginResponse>();
+                    return loginResponse;
+                }
+                else
+                {
+                    // If not successful, return a generic error message
+                    return new LoginResponse
+                    {
+                        Message = "Login failed. Please try again."
+                    };
+                }
+            }
+            catch (Exception ex)
+            {
+                // Handle the error (e.g., network issues)
+                return new LoginResponse
+                {
+                    Message = $"Error: {ex.Message}"
+                };
+            }
         }
 
     }

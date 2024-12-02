@@ -16,5 +16,11 @@ namespace StudentRecordPDC50.Model
         public string Course { get; set; }
         public string Yearlevel { get; set; }
         public string Password { get; set; }
+
+        public class LoginResponse
+        {
+            public string Message { get; set; }  // Message indicating the result (e.g., success, failure)
+            public User User { get; set; }       // User data (optional if the login is successful)
+        }
     }
 }

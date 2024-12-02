@@ -9,4 +9,9 @@ public partial class UserPage : ContentPage
 		InitializeComponent();
         BindingContext = new UserViewModel();
     }
+    private async void OnLogoutClicked(object sender, EventArgs e)
+    {
+        // Navigate to the main page (replace MainPage with your actual main page name)
+        await Navigation.PushAsync(new MainPage());
+    }
 }

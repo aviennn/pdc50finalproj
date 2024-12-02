@@ -1,4 +1,7 @@
 ﻿using StudentRecordPDC50.Services; // Make sure to import the necessary namespace
+using System.Net.Http.Json;
+using StudentRecordPDC50.Model;
+using StudentRecordPDC50.View;
 
 namespace StudentRecordPDC50
 {
@@ -17,6 +20,11 @@ namespace StudentRecordPDC50
             string username = UsernameEntry.Text?.Trim();
             string password = PasswordEntry.Text?.Trim();
 
+            if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
+            {
+                await DisplayAlert("Input Error", "Please enter both username and password.", "OK");
+                return;
+            }
             // Admin credentials
             const string adminUsername = "admin";
             const string adminPassword = "password123";
@@ -28,9 +36,37 @@ namespace StudentRecordPDC50
                 return;
             }
 
+            //New Function
+            try
+            {
+                // Call the LoginAsync method from the UserService to send login credentials to the server
+                var loginResponse = await _userService.LoginAsync(username, password);
 
-            // Show error for invalid credentials
-            await DisplayAlert("Login Failed", "Invalid credentials. Please try again.", "OK");
+                // Check if login was successful
+                if (loginResponse?.Message == "Login successful")
+                {
+                    // Get the student data from the login response
+                    var user = loginResponse.User;
+
+                    // Redirect to the StudentPage and pass the student data
+                    var studentPage = new StudentPage();
+
+                    // Set the student data to be displayed
+                    studentPage.SetStudentData(user.Idno, user.Name, user.Gender, user.College, user.Course, user.Yearlevel);
+
+                    await Navigation.PushAsync(studentPage);
+                }
+                else
+                {
+                    // Show error message if login fails
+                    await DisplayAlert("Login Failed", loginResponse?.Message ?? "Unknown error", "OK");
+                }
+            }
+            catch (Exception ex)
+            {
+                // Handle any exceptions (network issues, etc.)
+                await DisplayAlert("Error", $"An error occurred: {ex.Message}", "OK");
+            }
         }
     }
 }
